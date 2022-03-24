@@ -1,0 +1,23 @@
+.coin{
+    background-color: rgb(233, 240, 240);
+    border-radius: 5px;
+    padding: 5px;
+    margin: 15px;
+    width: 40vw;
+    height: 35vh;
+    font-family: monospace;
+    box-shadow: 3px 2px 3px  rgb(43, 44, 44);
+    line-height: 2.5;
+}
+.iconImg{
+    height: 80px;
+    width: 80px;
+}
+.coin:hover{
+    width: 45vw;
+    height: 40vh;
+    margin: 20px;
+    font-size: large;
+    transition: all .3s ease;
+
+}
